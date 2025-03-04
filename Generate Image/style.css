@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    text-align: center;
+    font-family: Arial,Arial, Helvetica, sans-serif;
+    background-color: rgb(232, 150, 163);
+}
+
+#heading{
+    height: auto;
+    line-height: 60px;
+    background-color: black;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#randomtext{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+button{
+    padding: 10px 20px;
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-top: 20px;
+    cursor: pointer;
+    border-radius: 20px;
+    background-color: rgb(247, 54, 54);
+    color: rgb(244, 244, 244);
+    border: none;
+}
+
+img{
+    margin-top: 20px;
+    max-height: 400px;
+    max-width: auto;
+}
